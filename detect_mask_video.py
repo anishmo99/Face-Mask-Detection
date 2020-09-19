@@ -1,6 +1,3 @@
-# USAGE
-# python detect_mask_video.py
-
 # import the necessary packages
 from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 from tensorflow.keras.preprocessing.image import img_to_array
@@ -15,7 +12,6 @@ import os
 
 def detect_and_predict_mask(frame, faceNet, maskNet):
 	# grab the dimensions of the frame and then construct a blob
-	# from it
 	(h, w) = frame.shape[:2]
 	blob = cv2.dnn.blobFromImage(frame, 1.0, (300, 300),
 		(104.0, 177.0, 123.0))
@@ -142,6 +138,5 @@ while True:
 	if key == ord("q"):
 		break
 
-# do a bit of cleanup
 cv2.destroyAllWindows()
 vs.stop()
