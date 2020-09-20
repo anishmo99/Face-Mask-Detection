@@ -1,6 +1,8 @@
 # Face Mask Detection
 Repository for HackChennai
 
+<p>PPT for the project : https://docs.google.com/presentation/d/13xRimgWG5OPu-Oju4uu4yiQlrhgzC4qydmCMTefSSzI/edit?usp=sharing
+
 <p>As we all know that there is an ongoing pandemic of coronavirus disease 2019 (COVID‑19) which is accelerating day by day , self protection is the only way out which can be done by wearing masks.
 
 <p>In view of this current situation our team decided to make face mask detector. The task in hand is to check whether the person is wearing mask or not through an available image or video.
