@@ -1,7 +1,7 @@
 # Face Mask Detection
 Repository for HackChennai
 
-```PPT for the project :``` https://docs.google.com/presentation/d/13xRimgWG5OPu-Oju4uu4yiQlrhgzC4qydmCMTefSSzI/edit?usp=sharing
+```PPT for the project :``` <a href='https://docs.google.com/presentation/d/13xRimgWG5OPu-Oju4uu4yiQlrhgzC4qydmCMTefSSzI/edit?usp=sharing'>facemaskdetection_PPT</a>
 
 <p>As we all know that there is an ongoing pandemic of coronavirus disease 2019 (COVID‑19) which is accelerating day by day , self protection is the only way out which can be done by wearing masks.
 
@@ -9,7 +9,7 @@ Repository for HackChennai
 
 <p>So in this era of automation and artificial intelligence we decided to come up with a project that is going to automate the process of face mask detection using open CV and deep learning thereby making the life of frontline warriors easy
 
-```Docker Repository link :``` https://hub.docker.com/repository/registry-1.docker.io/anishmo99/facemaskdetection/tags?page=1
+```Docker Repository link :``` <a href='https://hub.docker.com/repository/registry-1.docker.io/anishmo99/facemaskdetection/tags?page=1'>facemaskdetection_dockerhub</a>
 
 You just need to type in the following commands on either CMD or Terminal and you are good to go.
 Make sure to have Docker installed in the system.
