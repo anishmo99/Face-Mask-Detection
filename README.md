@@ -18,7 +18,7 @@ Make sure to have Docker installed in the system.
 
 If you want to run the code without Docker :
 ```
-1. Clone the Repository 
+1. Clone this Github Repository into the local machine
 2. Run this in the Cloned Directory on either CMD or Terminal: 
           a. pip install -r requirements.txt
           b. python3 run.py
