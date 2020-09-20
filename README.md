@@ -1,7 +1,7 @@
 # Face Mask Detection
 Repository for HackChennai
 
-<p>PPT for the project : https://docs.google.com/presentation/d/13xRimgWG5OPu-Oju4uu4yiQlrhgzC4qydmCMTefSSzI/edit?usp=sharing
+```PPT for the project :``` https://docs.google.com/presentation/d/13xRimgWG5OPu-Oju4uu4yiQlrhgzC4qydmCMTefSSzI/edit?usp=sharing
 
 <p>As we all know that there is an ongoing pandemic of coronavirus disease 2019 (COVID‑19) which is accelerating day by day , self protection is the only way out which can be done by wearing masks.
 
