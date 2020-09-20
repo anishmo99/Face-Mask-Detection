@@ -12,7 +12,6 @@ def mask_image():
 	
 	global image
 	# load our serialized face detector model from disk
-	print("[INFO] loading face detector model...")
 	prototxtPath = os.path.sep.join(["face_detector", "deploy.prototxt"])
 	weightsPath = os.path.sep.join(["face_detector",
 		"res10_300x300_ssd_iter_140000.caffemodel"])
