@@ -1,12 +1,19 @@
 # Face-Mask-Detection
- Repository for HackChennai
-<p> 
- Run the below code on either Terminal or Command Prompt
- This won't work on cloud based notebooks
+Repository for HackChennai
 
+Docker Repository link : https://hub.docker.com/repository/registry-1.docker.io/anishmo99/facemaskdetection/tags?page=1
+
+You just need to type in the following commands on either CMD or Terminal and you are good to go.
+Make sure to have Docker installed in the system.
 ```
-1. pip install -r requirements.txt
-2. python3 run.py
+1. docker pull anishmo99/facemaskdetection
+2. docker run -it anishmo99/facemaskdetection
 ```
 
-This will turn on the WebCam and will give a live stream whether you are wearing a Mask or not.
+If you want to run the code without Docker :
+```
+1. Clone the Repository 
+2. Run this in the Cloned Directory on either CMD or Terminal: 
+          a. pip install -r requirements.txt
+          b. python3 run.py
+```
