@@ -6,7 +6,7 @@
 
 ```
 1. pip install -r requirements.txt
-2. python3 detect_mask_video.py
+2. python3 run.py
 ```
 
 This will turn on the WebCam and will give a live stream whether you are wearing a Mask or not.
