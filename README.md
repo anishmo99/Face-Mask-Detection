@@ -1,7 +1,7 @@
 # Face-Mask-Detection
 Repository for HackChennai
 
-Docker Repository link : https://hub.docker.com/repository/registry-1.docker.io/anishmo99/facemaskdetection/tags?page=1
+```Docker Repository link : https://hub.docker.com/repository/registry-1.docker.io/anishmo99/facemaskdetection/tags?page=1```
 
 You just need to type in the following commands on either CMD or Terminal and you are good to go.
 Make sure to have Docker installed in the system.
